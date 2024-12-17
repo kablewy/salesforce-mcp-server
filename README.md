@@ -2,6 +2,8 @@
 
 A Model Context Protocol server implementation for interacting with Salesforce through its REST API.
 
+<a href="https://glama.ai/mcp/servers/y9k3w9grtk"><img width="380" height="200" src="https://glama.ai/mcp/servers/y9k3w9grtk/badge" alt="salesforce-mcp-server MCP server" /></a>
+
 ## Features
 
 - Execute SOQL queries

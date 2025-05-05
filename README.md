@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kablewy-salesforce-mcp-server-badge.png)](https://mseep.ai/app/kablewy-salesforce-mcp-server)
+
 # Salesforce MCP Server
 
 [![smithery badge](https://smithery.ai/badge/salesforce-mcp-server)](https://smithery.ai/server/salesforce-mcp-server)

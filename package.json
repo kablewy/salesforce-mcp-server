@@ -9,13 +9,14 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.1",
+    "dotenv": "^16.3.1",
     "jsforce": "^3.6.3",
-    "dotenv": "^16.3.1"
+    "mcp-evals": "^1.0.18"
   },
   "devDependencies": {
-    "@types/node": "^20.10.4",
     "@types/jsforce": "^1.11.5",
-    "typescript": "^5.7.2",
-    "tsx": "^4.6.2"
+    "@types/node": "^20.10.4",
+    "tsx": "^4.6.2",
+    "typescript": "^5.7.2"
   }
 }
